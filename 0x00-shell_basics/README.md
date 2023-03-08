@@ -10,3 +10,4 @@
 * mv : Rename or move file or directory.
 * rm : Delete file.
 * rmdir: Delete directory.
+* cd .. : Changes the working directory to the previous one.
