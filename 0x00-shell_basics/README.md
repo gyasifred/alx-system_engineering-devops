@@ -6,3 +6,5 @@
 * ls -l : Display current directory contents in a long format.
 * ls -la :Display current directory contents, including hidden files (starting with .). 
 * ls -lna :Display current directory contents in a long format. with user and group IDs displayed numerically. 
+* mkdir : Create a directory or folder.
+
