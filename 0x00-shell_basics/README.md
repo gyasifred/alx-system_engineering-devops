@@ -9,3 +9,4 @@
 * mkdir : Create a directory or folder.
 * mv : Rename or move file or directory.
 * rm : Delete file.
+* rmdir: Delete directory.
