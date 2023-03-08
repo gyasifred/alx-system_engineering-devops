@@ -8,3 +8,4 @@
 * ls -lna :Display current directory contents in a long format. with user and group IDs displayed numerically. 
 * mkdir : Create a directory or folder.
 * mv : Rename or move file or directory.
+* rm : Delete file.
