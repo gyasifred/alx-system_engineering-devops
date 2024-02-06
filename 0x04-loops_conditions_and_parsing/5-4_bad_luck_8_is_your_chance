@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+# Print Bad luck on 4 iteration, good luck on 8th iteration and best school for the remaining
+# Set initial counter
+i="1"
+
+# Use a while loop to iterate 10 times
+while [ $i -le "10" ]; do
+    # Check if it's the 9th iteration
+    if [ "$i" -eq "4" ]; then
+        echo "bad luck"
+    elif [ "$i" -eq "8" ]; then
+        echo "good luck"
+    else
+    	echo "Best School"
+    fi
+
+    # Increment the counter
+    ((i++))
+done
